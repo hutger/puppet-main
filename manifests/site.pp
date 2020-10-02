@@ -1,4 +1,1 @@
-node default
-{
-  hiera_include('classes')
-}
+lookup('classes',Array,'unique',[]).include
