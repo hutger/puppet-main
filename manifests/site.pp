@@ -1,7 +1,3 @@
-# Setting lookup policy
-#lookup('classes',Array,'unique',[]).include
+# Data-driven class assignment
+lookup('classes',Array,'unique',[]).include
 
-node default
-{
-  hiera_include('classes')
-}
