@@ -36,3 +36,5 @@ mod 'puppet-profiles',
 mod 'puppet-roles',
   :git   => 'git@github.com:hutger/puppet-roles.git',
   :branch => 'production'
+
+mod 'puppetlabs-haproxy', '4.4.0'
