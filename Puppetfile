@@ -38,3 +38,5 @@ mod 'puppet-roles',
   :branch => 'production'
 
 mod 'puppetlabs-haproxy', '4.4.0'
+mod 'puppet-squid', '3.0.0'
+mod 'puppet-selinux', '3.2.0'
