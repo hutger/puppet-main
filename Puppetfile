@@ -41,5 +41,3 @@ mod 'puppet-roles',
 mod 'puppetlabs-haproxy', '4.4.0'
 mod 'puppet-squid', '3.0.0'
 mod 'puppet-selinux', '3.2.0'
-
-mod 'puppet-prometheus', '10.2.0'
