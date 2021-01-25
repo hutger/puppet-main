@@ -29,6 +29,7 @@ mod 'camptocamp/postfix',    :latest
 mod 'puppet/alternatives',   :latest
 mod 'puppet/prometheus',     :latest
 mod 'puppet/nginx',          :latest
+mod 'zehweh-netplan',        '1.0.0'
 mod 'puppet-gitlab', '5.1.0'
 mod 'puppet-profiles',
   :git   => 'git@github.com:hutger/puppet-profiles.git',
